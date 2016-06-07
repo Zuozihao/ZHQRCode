@@ -15,7 +15,6 @@
 		98B76C171D066A610062A897 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C151D066A610062A897 /* LaunchScreen.storyboard */; };
 		98B76C221D066A610062A897 /* ZHQRCodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B76C211D066A610062A897 /* ZHQRCodeTests.m */; };
 		98B76C2D1D066A610062A897 /* ZHQRCodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B76C2C1D066A610062A897 /* ZHQRCodeUITests.m */; };
-		98B76C4B1D066D690062A897 /* 31.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C3A1D066D690062A897 /* 31.png */; };
 		98B76C4C1D066D690062A897 /* 33.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C3B1D066D690062A897 /* 33.png */; };
 		98B76C4D1D066D690062A897 /* 44.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C3C1D066D690062A897 /* 44.png */; };
 		98B76C4E1D066D690062A897 /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C3D1D066D690062A897 /* 111.png */; };
@@ -62,7 +61,6 @@
 		98B76C281D066A610062A897 /* ZHQRCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZHQRCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98B76C2C1D066A610062A897 /* ZHQRCodeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZHQRCodeUITests.m; sourceTree = "<group>"; };
 		98B76C2E1D066A610062A897 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		98B76C3A1D066D690062A897 /* 31.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 31.png; sourceTree = "<group>"; };
 		98B76C3B1D066D690062A897 /* 33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 33.png; sourceTree = "<group>"; };
 		98B76C3C1D066D690062A897 /* 44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 44.png; sourceTree = "<group>"; };
 		98B76C3D1D066D690062A897 /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
@@ -129,7 +127,6 @@
 		98B76C061D066A610062A897 /* ZHQRCode */ = {
 			isa = PBXGroup;
 			children = (
-				98B76C3A1D066D690062A897 /* 31.png */,
 				98B76C3B1D066D690062A897 /* 33.png */,
 				98B76C3C1D066D690062A897 /* 44.png */,
 				98B76C3D1D066D690062A897 /* 111.png */,
@@ -296,7 +293,6 @@
 				98B76C4D1D066D690062A897 /* 44.png in Resources */,
 				98B76C501D066D690062A897 /* ii.png in Resources */,
 				98B76C171D066A610062A897 /* LaunchScreen.storyboard in Resources */,
-				98B76C4B1D066D690062A897 /* 31.png in Resources */,
 				98B76C141D066A610062A897 /* Assets.xcassets in Resources */,
 				98B76C121D066A610062A897 /* Main.storyboard in Resources */,
 			);
