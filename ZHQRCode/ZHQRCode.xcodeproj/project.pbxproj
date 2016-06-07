@@ -125,23 +125,15 @@
 		98B76C061D066A610062A897 /* ZHQRCode */ = {
 			isa = PBXGroup;
 			children = (
-				98B76C3B1D066D690062A897 /* 33.png */,
-				98B76C3C1D066D690062A897 /* 44.png */,
-				98B76C3D1D066D690062A897 /* 111.png */,
+				98B76C0A1D066A610062A897 /* AppDelegate.h */,
+				98B76C0B1D066A610062A897 /* AppDelegate.m */,
+				98B76C561D0671640062A897 /* QRCode */,
 				98B76C3E1D066D690062A897 /* GenerateQRCodeViewController.h */,
 				98B76C3F1D066D690062A897 /* GenerateQRCodeViewController.m */,
 				98B76C411D066D690062A897 /* PicQRCodeViewController.h */,
 				98B76C421D066D690062A897 /* PicQRCodeViewController.m */,
 				98B76C431D066D690062A897 /* UIView+ViewController.h */,
 				98B76C441D066D690062A897 /* UIView+ViewController.m */,
-				98B76C451D066D690062A897 /* ZHGenerateQRCode.h */,
-				98B76C461D066D690062A897 /* ZHGenerateQRCode.m */,
-				98B76C471D066D690062A897 /* ZHQRCodeInPic.h */,
-				98B76C481D066D690062A897 /* ZHQRCodeInPic.m */,
-				98B76C491D066D690062A897 /* ZHQRCodeScanViewController.h */,
-				98B76C4A1D066D690062A897 /* ZHQRCodeScanViewController.m */,
-				98B76C0A1D066A610062A897 /* AppDelegate.h */,
-				98B76C0B1D066A610062A897 /* AppDelegate.m */,
 				98B76C0D1D066A610062A897 /* ViewController.h */,
 				98B76C0E1D066A610062A897 /* ViewController.m */,
 				98B76C101D066A610062A897 /* Main.storyboard */,
@@ -156,6 +148,9 @@
 		98B76C071D066A610062A897 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				98B76C3B1D066D690062A897 /* 33.png */,
+				98B76C3C1D066D690062A897 /* 44.png */,
+				98B76C3D1D066D690062A897 /* 111.png */,
 				98B76C081D066A610062A897 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -177,6 +172,19 @@
 				98B76C2E1D066A610062A897 /* Info.plist */,
 			);
 			path = ZHQRCodeUITests;
+			sourceTree = "<group>";
+		};
+		98B76C561D0671640062A897 /* QRCode */ = {
+			isa = PBXGroup;
+			children = (
+				98B76C451D066D690062A897 /* ZHGenerateQRCode.h */,
+				98B76C461D066D690062A897 /* ZHGenerateQRCode.m */,
+				98B76C471D066D690062A897 /* ZHQRCodeInPic.h */,
+				98B76C481D066D690062A897 /* ZHQRCodeInPic.m */,
+				98B76C491D066D690062A897 /* ZHQRCodeScanViewController.h */,
+				98B76C4A1D066D690062A897 /* ZHQRCodeScanViewController.m */,
+			);
+			name = QRCode;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
