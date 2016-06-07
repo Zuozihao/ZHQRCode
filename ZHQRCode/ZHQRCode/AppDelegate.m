@@ -2,11 +2,12 @@
 //  AppDelegate.m
 //  ZHQRCode
 //
-//  Created by 左梓豪 on 16/6/7.
+//  Created by 左梓豪 on 16/6/3.
 //  Copyright © 2016年 左梓豪. All rights reserved.
 //
 
 #import "AppDelegate.h"
+#import "ViewController.h"
 
 @interface AppDelegate ()
 
@@ -17,6 +18,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    ViewController *vc = [ViewController new];
+    UINavigationController *navigation = [[UINavigationController alloc] initWithRootViewController:vc];
+    self.window.rootViewController = navigation;
     return YES;
 }
 
