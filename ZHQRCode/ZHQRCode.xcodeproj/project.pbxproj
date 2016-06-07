@@ -19,7 +19,6 @@
 		98B76C4D1D066D690062A897 /* 44.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C3C1D066D690062A897 /* 44.png */; };
 		98B76C4E1D066D690062A897 /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C3D1D066D690062A897 /* 111.png */; };
 		98B76C4F1D066D690062A897 /* GenerateQRCodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B76C3F1D066D690062A897 /* GenerateQRCodeViewController.m */; };
-		98B76C501D066D690062A897 /* ii.png in Resources */ = {isa = PBXBuildFile; fileRef = 98B76C401D066D690062A897 /* ii.png */; };
 		98B76C511D066D690062A897 /* PicQRCodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B76C421D066D690062A897 /* PicQRCodeViewController.m */; };
 		98B76C521D066D690062A897 /* UIView+ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B76C441D066D690062A897 /* UIView+ViewController.m */; };
 		98B76C531D066D690062A897 /* ZHGenerateQRCode.m in Sources */ = {isa = PBXBuildFile; fileRef = 98B76C461D066D690062A897 /* ZHGenerateQRCode.m */; };
@@ -66,7 +65,6 @@
 		98B76C3D1D066D690062A897 /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
 		98B76C3E1D066D690062A897 /* GenerateQRCodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GenerateQRCodeViewController.h; sourceTree = "<group>"; };
 		98B76C3F1D066D690062A897 /* GenerateQRCodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GenerateQRCodeViewController.m; sourceTree = "<group>"; };
-		98B76C401D066D690062A897 /* ii.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ii.png; sourceTree = "<group>"; };
 		98B76C411D066D690062A897 /* PicQRCodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PicQRCodeViewController.h; sourceTree = "<group>"; };
 		98B76C421D066D690062A897 /* PicQRCodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PicQRCodeViewController.m; sourceTree = "<group>"; };
 		98B76C431D066D690062A897 /* UIView+ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ViewController.h"; sourceTree = "<group>"; };
@@ -132,7 +130,6 @@
 				98B76C3D1D066D690062A897 /* 111.png */,
 				98B76C3E1D066D690062A897 /* GenerateQRCodeViewController.h */,
 				98B76C3F1D066D690062A897 /* GenerateQRCodeViewController.m */,
-				98B76C401D066D690062A897 /* ii.png */,
 				98B76C411D066D690062A897 /* PicQRCodeViewController.h */,
 				98B76C421D066D690062A897 /* PicQRCodeViewController.m */,
 				98B76C431D066D690062A897 /* UIView+ViewController.h */,
@@ -291,7 +288,6 @@
 				98B76C4C1D066D690062A897 /* 33.png in Resources */,
 				98B76C4E1D066D690062A897 /* 111.png in Resources */,
 				98B76C4D1D066D690062A897 /* 44.png in Resources */,
-				98B76C501D066D690062A897 /* ii.png in Resources */,
 				98B76C171D066A610062A897 /* LaunchScreen.storyboard in Resources */,
 				98B76C141D066A610062A897 /* Assets.xcassets in Resources */,
 				98B76C121D066A610062A897 /* Main.storyboard in Resources */,
